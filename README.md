@@ -1,1 +1,1 @@
-đây là thông báo số 1 để thử nghiệm load từ github.
+đây là thông báo số 2 để thử nghiệm load từ github.
